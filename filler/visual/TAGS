@@ -1,0 +1,27 @@
+
+visual.c,286
+int		ft_get_int_len(15,913
+char	*ft_converter(ft_converter28,1015
+void	destroy(57,1463
+void	draw_elem_rect(73,1692
+void	redraw(92,2364
+void			event(153,3630
+void			put_text(161,3807
+void			loop_for_map(174,4311
+void			loop(191,5136
+void	init_sdl(214,5579
+int		main(234,6402
+
+includes/visual.h,265
+# define VISUAL_H14,909
+# define WIN_X 23,1056
+# define WIN_Y 24,1076
+# define FRAME_SIZE 25,1096
+typedef struct		s_cord27,1121
+}					t_cord;31,1168
+typedef	struct		s_util33,1183
+}					t_util;38,1244
+typedef	struct		s_global40,1259
+}					t_global;65,1712
+
+ft_get_int_len.c,0
