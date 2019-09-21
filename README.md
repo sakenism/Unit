@@ -23,7 +23,7 @@
   
 4. **Printf.**
 
-  Regardless of the programming language considered, the **printf** function (or its equivalent) is always highly useful. The   main reason is the ease of its formatting, and the support of diverse types in a variable numbers. Undeniably, it is a       vital   function. The project is intended to ask me to recode it and add some features for bonus points.
+  Regardless of the programming language considered, the printf function (or its equivalent) is always highly useful. The   main reason is the ease of its formatting, and the support of diverse types in a variable numbers. Undeniably, it is a       vital   function. The project is intended to ask me to recode it and add some features for bonus points.
   More about the project: <a href="https://github.com/sakenism/Unit/blob/master/ft_printf/ft_printf.en.pdf" target="_blank">Subject</a>
   
   My implementation: <a href="https://github.com/sakenism/Unit/tree/master/ft_printf" target="_blank">Printf</a>
