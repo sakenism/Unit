@@ -14,5 +14,8 @@
   Regardless of the programming language considered, the **printf** function (or its equivalent) is always highly useful. The     main reason is the ease of its formatting, and the support of diverse types in a variable numbers. Undeniably, it is a vital   function. The project is intended to ask me to recode it and add some features for bonus points.
   More about the project: <a href="https://github.com/sakenism/Unit/blob/master/ft_printf/ft_printf.en.pdf" target="_blank">Printf</a>
 5) **Filler.**
-  Filler is an algorithmic game which consists of filling a grid of a known size in adbance with pieces of a random size and shapes, without the pieces being stacked more than one square above each other and withoit them exceeding the grid. If one of these conditions is not met, the game stops.
+  Filler is an algorithmic game which consists of filling a grid of a known size in advance with pieces of a random size and     shapes, without the pieces being stacked more than one square above each other and without them exceeding the grid. If one of   these conditions is not met, the game stops.
   More about the project: <a href="https://github.com/sakenism/Unit/blob/master/filler/filler.en.pdf" target="_blank">Filler</a>
+6) **Lem-in**
+  Lem-in can be considered as an introduction to the theory of graphs. The main point is to create map of ant farm where each     room can hold only one ant (except starting and ending point). Outcome is to count how many iterations are needed to walk all   ant froms starting point to ending point in a least amount of time. No overlaps (traffic) are allowed.
+  More about the project: <a href="https://github.com/sakenism/Unit/blob/master/lem_in/lem-in.en.pdf" target="_blank">Lem-in</a>
