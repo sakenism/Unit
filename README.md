@@ -7,7 +7,7 @@
 2) **GNL.**
   One of the most fundamental things to implement when most of helpful functions are unavailable is **Get Next Line**.         Reading   every bit of given data, allocating enough memory, and excluding **Memory leaks** was the main aim of the           project.
   More about the project: <a href="https://github.com/sakenism/Unit/blob/master/gnl/get_next_line.en.pdf" target="_blank">Subject
-  My implementation: <a href="https://github.com/sakenism/Unit/tree/master/gnl" target="_blank">GNLa> 
+  My implementation: <a href="https://github.com/sakenism/Unit/tree/master/gnl" target="_blank">GNL</a> 
 
 3) **Fillit.**
   Fillit is the project that let you discover and/or familiarize yourself with a recurring problematic in programming:         searching the optimal solution among a huge set of a possibilities, in a respectable timing. In this particular project,
