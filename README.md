@@ -10,3 +10,6 @@
 3) **Fillit.**
   Fillit is the project that let you discover and/or familiarize yourself with a recurring problematic in programming:           searching the optimal solution among a huge set of a possibilities, in a respectable timing. In this particular project, you   will have to find a way to assemble a given Tetriminos set altogether in the smallest possible square.
   More about the project: <a href="https://github.com/sakenism/Unit/blob/master/fillit/fillit.en.pdf" target="_blank">Fillit</a>
+4) **Printf**
+   Regardless of the programming language considered, the **printf** function (or its equivalent) is always highly useful. The    main reason is the ease of its formatting, and the support of diverse types in a variable numbers. Undeniably, it is a vital    function. The project is intended to ask me to recode it and add some features for bonus points.
+   More about the project: <a href="https://github.com/sakenism/Unit/blob/master/ft_printf/ft_printf.en.pdf" target="_blank">Printf</a>
