@@ -8,7 +8,7 @@
   
 2. **GNL.**
 
-  One of the most fundamental things to implement when most of helpful functions are unavailable is **Get Next Line**.         Reading   every bit of given data, allocating enough memory, and excluding **Memory leaks** was the main aim of the           project.
+  One of the most fundamental things to implement when most of helpful functions are unavailable is Get Next Line.         Reading   every bit of given data, allocating enough memory, and excluding memory leaks was the main aim of the           project.
   More about the project: <a href="https://github.com/sakenism/Unit/blob/master/gnl/get_next_line.en.pdf" target="_blank">Subject</a>
   
   My implementation: <a href="https://github.com/sakenism/Unit/tree/master/gnl" target="_blank">GNL</a> 
