@@ -9,4 +9,4 @@
 
 3) **Fillit.**
   Fillit is the project that let you discover and/or familiarize yourself with a recurring problematic in programming:           searching the optimal solution among a huge set of a possibilities, in a respectable timing. In this particular project, you   will have to find a way to assemble a given Tetriminos set altogether in the smallest possible square.
-  More about the project: <a href="https://github.com/sakenism/Unit/blob/master/fillit/fillit.en.pdf" target="_blank">GNL</a>
+  More about the project: <a href="https://github.com/sakenism/Unit/blob/master/fillit/fillit.en.pdf" target="_blank">Fillit</a>
