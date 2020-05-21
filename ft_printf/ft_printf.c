@@ -11,7 +11,6 @@
 /* ************************************************************************** */
 
 #include "ft_printf.h"
-#include <stdio.h>
 
 int			g_cnt = 0;
 va_list		*g_arg;
@@ -80,3 +79,4 @@ int			ft_printf(char *ind, ...)
 	va_end(arg);
 	return (g_cnt);
 }
+

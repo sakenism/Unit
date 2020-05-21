@@ -40,3 +40,4 @@ int		get_next_line(const int fd, char **line)
 	ft_strdel(&tm);
 	return (!(!h[fd] && !ft_strlen(*line)));
 }
+
